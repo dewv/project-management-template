@@ -8,4 +8,4 @@ The first three Issues in this repo will guide you through a process of stakehol
 
 ![Anchor Point Milestones](./anchorPoints.png)
 
-You will use the other files in this repo to capture various work products, and the relationships between them. Per the spiral model, you will use risk analysis to determine the amount of effort invested in each type of work product, and the order you work on them.
+The other Issues will guide you through an ongoing process of allocating resources and prioritizing tasks, based on assessment of project risks.
